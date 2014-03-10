@@ -1,0 +1,4 @@
+Cybershopshtml
+==============
+
+Cybershops Email Template
